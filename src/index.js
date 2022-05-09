@@ -6,10 +6,9 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from "react-router-dom";
 import { MoralisProvider } from "react-moralis";
 
-
 ReactDOM.render(
   <React.StrictMode>
-    <MoralisProvider appId="xxxxxxxx" serverUrl="xxxxxxxx">
+    <MoralisProvider appId="Rgto1OD5aD6tbfmboFUbifWdSa1Ilc2w1hSRzvcR" serverUrl="https://aadcz21uei9y.usemoralis.com:2053/server">
       <BrowserRouter>
         <App />
       </BrowserRouter>

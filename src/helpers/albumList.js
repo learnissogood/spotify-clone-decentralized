@@ -1,5 +1,10 @@
 export const library = [
     {
+      title: "SpotifyMusic",
+      image: "https://ipfs.moralis.io:2053/ipfs/QmNsnqDMmRMKgWm2dQrZ4uFGQNUiZ7vmbfgptYyAgfKNVx/media/2",
+      contract: "0xEc788ACD19e022E9ce25c6AfAd286F9C3bC25980",
+    },
+    {
       title: "Hyperspace",
       image:
         "https://www.digitalartsonline.co.uk/cmsdata/slideshow/3776245/beck_-_hyperspace.jpg"
